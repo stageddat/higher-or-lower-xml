@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HigherOrLower</string>
+    <string name="app_title">Major o Menor</string>
+    <string name="tv_score">Punts: %1$d  |  Rècord: %2$d  |  Queden: %3$d</string>
+    <string name="tv_card">7♠</string>
+    <string name="tv_message">La següent serà major o menor?</string>
+    <string name="btn_lower">Menor</string>
+    <string name="btn_higher">Major</string>
+    <string name="btn_restart">Tornar a jugar</string>
+    <string name="msg_tie">Empat! Torna a provar</string>
+    <string name="msg_correct">Correcte! :)</string>
+    <string name="msg_lost">Has perdut! :(</string>
+    <string name="msg_deck_end">Has guanyat!</string>
+</resources>
